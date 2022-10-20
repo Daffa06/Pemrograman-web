@@ -1,0 +1,17 @@
+body {
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+    font-size: 6em;
+  }
+  
+div {
+   color: white;
+  }
+
+h4 {
+  color: black;
+}
+
+img {
+  border-radius: 60%;
+}
