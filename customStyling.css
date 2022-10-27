@@ -15,3 +15,49 @@ h4 {
 img {
   border-radius: 60%;
 }
+
+.tab{
+  font-size: 20px;
+}
+
+.grid-social{
+  display: flex;
+  padding-left: 43%;
+}
+
+.item-social{
+  padding: 16px;
+}
+
+@media only screen and (max-width: 768em) {
+  body {
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+    font-size: 6em;
+  }
+  
+div {
+   color: white;
+  }
+
+h4 {
+  color: black;
+}
+
+img {
+  border-radius: 60%;
+}
+
+.tab{
+  font-size: 20px;
+}
+
+.grid-social{
+  display: flex;
+  padding-left: 26%;
+}
+
+.item-social{
+  padding: 16px;
+}
+}
